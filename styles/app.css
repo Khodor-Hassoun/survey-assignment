@@ -1,6 +1,10 @@
+body{
+    background-color: #abacab;
+    color: #78373e;
+
+}
 h1{
-    background-color: #e07a5f;
-    color: #780000;
+    background-color: #fefefe;
     text-align: center;
     padding-top: 30px;
     padding-bottom: 60px;
@@ -33,4 +37,10 @@ h1{
 }
 .seg3-1{
     margin-top: 15px;
+}
+.seg7{
+    margin-top: 50px;
+}
+.aligner{
+    margin-left: 200px;
 }
