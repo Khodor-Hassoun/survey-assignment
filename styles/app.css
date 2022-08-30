@@ -1,0 +1,36 @@
+h1{
+    background-color: #e07a5f;
+    color: #780000;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+.main{
+    margin-left: 40px;
+}
+/* div{
+    margin-bottom: 30px;
+} */
+.seg1{
+    display: inline-block;
+    width: 200px;
+    margin-right: 60px;
+    margin-bottom: 30px;
+}
+.seg2{
+    margin-bottom: 15px;
+}
+.seg2 label{
+    /* margin-right: 150px; */
+    padding-right: 150px;
+    width: auto;
+}
+.seg3{
+    margin-top: 30px;
+}
+.seg3 label{
+    margin-right: 200px;
+}
+.seg3-1{
+    margin-top: 15px;
+}
