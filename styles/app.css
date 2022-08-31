@@ -8,6 +8,7 @@ h1{
     text-align: center;
     padding-top: 30px;
     padding-bottom: 60px;
+    margin: 0%;
 }
 .main{
     margin-left: 40px;
@@ -26,11 +27,20 @@ h1{
 }
 .seg2 label{
     /* margin-right: 150px; */
-    padding-right: 150px;
+    /* padding-right: 150px; */
     width: auto;
+}
+
+dl{
+    display: inline-block;
+    /* max-width: 350px; */
+    width: 28%;
+    font-size:medium;
 }
 .seg3{
     margin-top: 30px;
+    margin-bottom: 20px;
+
 }
 .seg3 label{
     margin-right: 200px;
@@ -40,7 +50,21 @@ h1{
 }
 .seg7{
     margin-top: 50px;
+    margin-bottom: 30px;
+}
+textarea{
+    margin-top: 20px;
 }
 .aligner{
     margin-left: 200px;
+}
+.aligner input{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    background-color: grey;
+}
+form{
+    margin-left: 10%;
 }
